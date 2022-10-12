@@ -3,6 +3,7 @@
 // 14212 -> нет
 // 12821 -> да
 // 23432 -> да
+
 Start:
 
 Console.Write("Введите целое число >- ");
@@ -26,3 +27,4 @@ void Palindrom(long num)
 Palindrom(number);
 Console.WriteLine();
 goto Start;
+ 
